@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umoxeewo.github.io/MVD/sitemap_index.txt
+Sitemap: https://umoxeewo.github.io/OoJ/sitemap_index.txt
+Sitemap: https://umoxeewo.github.io/kHl/sitemap_index.txt
+Sitemap: https://umoxeewo.github.io/sRf/sitemap_index.txt
